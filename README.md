@@ -2,8 +2,8 @@
 
 A desktop application for managing grocery store inventory, built using **Qt (C++/Qt Widgets)**. This project helps store owners or staff efficiently handle stock, sales, and product details in a user-friendly interface.
 
-## 📸 Screenshots
-> *(Insert screenshots or a demo gif here to show the UI and main features)*
+## 📸 Screenshots/Youtube Video Demo Link
+> URL: https://www.youtube.com/watch?v=V63wy8kEeBM
 
 ---
 
